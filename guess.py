@@ -13,7 +13,7 @@ while not win:
 
 	if guess == target_number:
 		win = True
-		print('Congrats')
+		print('You Win')
 	else: 
 		print('You Lose')
 
